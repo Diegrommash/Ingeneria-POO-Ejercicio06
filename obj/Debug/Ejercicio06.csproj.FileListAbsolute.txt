@@ -1,0 +1,5 @@
+F:\Programando\Ingenieria\POO\Ejercicio-06\obj\Debug\Ejercicio06.csproj.AssemblyReference.cache
+F:\Programando\Ingenieria\POO\Ejercicio-06\obj\Debug\Ejercicio06.csproj.SuggestedBindingRedirects.cache
+F:\Programando\Ingenieria\POO\Ejercicio-06\obj\Debug\Ejercicio06.Properties.Resources.resources
+F:\Programando\Ingenieria\POO\Ejercicio-06\obj\Debug\Ejercicio06.csproj.GenerateResource.cache
+F:\Programando\Ingenieria\POO\Ejercicio-06\obj\Debug\Ejercicio06.csproj.CoreCompileInputs.cache
